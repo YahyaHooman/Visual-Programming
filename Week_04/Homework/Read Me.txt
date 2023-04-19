@@ -1,0 +1,2 @@
+This program gets the student's total credits and also the percentage he/she have gotten and gueses 
+whether he/she has the chance to boost her/his percentage or not.
