@@ -10,10 +10,9 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-
             // this is the class ativity code and simply shows the different types of string concatenation.
             //or string formating.
-            double age=0.0;
+            double age = 0.0;
             string name = "", message;
 
             Console.Write("Your Name: ");
@@ -37,7 +36,6 @@ namespace Variables
 
 
             Console.ReadKey();
-
         }
     }
 }
