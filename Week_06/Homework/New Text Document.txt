@@ -1,0 +1,1 @@
+this program simply calculates the 3*3 matrix's determinant and is the homework of week_06.

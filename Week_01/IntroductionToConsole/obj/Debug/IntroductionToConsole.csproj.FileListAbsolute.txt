@@ -1,0 +1,6 @@
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToConsole\bin\Debug\IntroductionToConsole.exe.config
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToConsole\bin\Debug\IntroductionToConsole.exe
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToConsole\bin\Debug\IntroductionToConsole.pdb
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToConsole\obj\Debug\IntroductionToConsole.csproj.CoreCompileInputs.cache
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToConsole\obj\Debug\IntroductionToConsole.exe
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToConsole\obj\Debug\IntroductionToConsole.pdb

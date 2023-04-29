@@ -1,0 +1,7 @@
+C:\Users\Root User\Desktop\VP_1\Week_07\JuggedArray\bin\Debug\JuggedArray.exe.config
+C:\Users\Root User\Desktop\VP_1\Week_07\JuggedArray\bin\Debug\JuggedArray.exe
+C:\Users\Root User\Desktop\VP_1\Week_07\JuggedArray\bin\Debug\JuggedArray.pdb
+C:\Users\Root User\Desktop\VP_1\Week_07\JuggedArray\obj\Debug\JuggedArray.csprojAssemblyReference.cache
+C:\Users\Root User\Desktop\VP_1\Week_07\JuggedArray\obj\Debug\JuggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Root User\Desktop\VP_1\Week_07\JuggedArray\obj\Debug\JuggedArray.exe
+C:\Users\Root User\Desktop\VP_1\Week_07\JuggedArray\obj\Debug\JuggedArray.pdb

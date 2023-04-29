@@ -1,0 +1,7 @@
+C:\Users\Root User\Desktop\VP_1\Week_07\2DJuggedArray\bin\Debug\2DJuggedArray.exe.config
+C:\Users\Root User\Desktop\VP_1\Week_07\2DJuggedArray\bin\Debug\2DJuggedArray.exe
+C:\Users\Root User\Desktop\VP_1\Week_07\2DJuggedArray\bin\Debug\2DJuggedArray.pdb
+C:\Users\Root User\Desktop\VP_1\Week_07\2DJuggedArray\obj\Debug\2DJuggedArray.csprojAssemblyReference.cache
+C:\Users\Root User\Desktop\VP_1\Week_07\2DJuggedArray\obj\Debug\2DJuggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Root User\Desktop\VP_1\Week_07\2DJuggedArray\obj\Debug\2DJuggedArray.exe
+C:\Users\Root User\Desktop\VP_1\Week_07\2DJuggedArray\obj\Debug\2DJuggedArray.pdb

@@ -1,0 +1,15 @@
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\bin\Debug\IntroductionToDisktopApp.exe.config
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\bin\Debug\IntroductionToDisktopApp.exe
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\bin\Debug\IntroductionToDisktopApp.pdb
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\IntroductionToDisktopApp.csprojAssemblyReference.cache
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\MainWindow.g.cs
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\App.g.cs
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\IntroductionToDisktopApp_MarkupCompile.cache
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\IntroductionToDisktopApp_MarkupCompile.lref
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\MainWindow.baml
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\IntroductionToDisktopApp.g.resources
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\IntroductionToDisktopApp.Properties.Resources.resources
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\IntroductionToDisktopApp.csproj.GenerateResource.cache
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\IntroductionToDisktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\IntroductionToDisktopApp.exe
+C:\Users\Root User\Desktop\VP_1\Week_01\IntroductionToDisktopApp\obj\Debug\IntroductionToDisktopApp.pdb

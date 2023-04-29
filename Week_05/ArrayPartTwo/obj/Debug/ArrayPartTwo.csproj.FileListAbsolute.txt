@@ -1,0 +1,7 @@
+C:\Users\Root User\Desktop\VP_1\Week_05\ArrayPartTwo\bin\Debug\ArrayPartTwo.exe.config
+C:\Users\Root User\Desktop\VP_1\Week_05\ArrayPartTwo\bin\Debug\ArrayPartTwo.exe
+C:\Users\Root User\Desktop\VP_1\Week_05\ArrayPartTwo\bin\Debug\ArrayPartTwo.pdb
+C:\Users\Root User\Desktop\VP_1\Week_05\ArrayPartTwo\obj\Debug\ArrayPartTwo.csprojAssemblyReference.cache
+C:\Users\Root User\Desktop\VP_1\Week_05\ArrayPartTwo\obj\Debug\ArrayPartTwo.csproj.CoreCompileInputs.cache
+C:\Users\Root User\Desktop\VP_1\Week_05\ArrayPartTwo\obj\Debug\ArrayPartTwo.exe
+C:\Users\Root User\Desktop\VP_1\Week_05\ArrayPartTwo\obj\Debug\ArrayPartTwo.pdb
